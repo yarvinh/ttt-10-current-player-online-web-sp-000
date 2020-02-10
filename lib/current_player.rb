@@ -5,7 +5,9 @@ def turn_count(board)
    if player.length >= 1
      count +=1
 
- end
+   end
+   count
 
+ end
 end
  example.forEach()
