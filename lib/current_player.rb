@@ -12,7 +12,7 @@ end
 
 def current_player(board)
   if turn_count(board)
-    player == "X"
+    player
   #   board.each do |player|
   #     player == "X"
   #
