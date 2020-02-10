@@ -15,6 +15,7 @@ def current_player(board)
     board.each do |player|
       player
     end
+    end
 end
 
   end
