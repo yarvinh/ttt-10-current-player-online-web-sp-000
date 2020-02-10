@@ -12,8 +12,8 @@ end
 
 def current_player(board)
   board.each do |player|
-    if turn_count(board) == "X"
-      player
+    if turn_count(board)
+      player == "X"
   end
 
 
