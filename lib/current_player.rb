@@ -16,7 +16,6 @@ def current_player(board)
     if player == "X"
       player
 
-
-end
-
+    end
   end
+end
