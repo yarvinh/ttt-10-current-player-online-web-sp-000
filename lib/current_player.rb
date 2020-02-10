@@ -13,10 +13,10 @@ end
 def current_player(board)
   # if turn_count(board)
   board.each do |player|
-    if turn_count(board) == 3
-      player == "X"
-  #
-   end
+    if player == "X"
+      player
+
+
 end
 
   end
