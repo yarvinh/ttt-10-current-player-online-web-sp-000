@@ -10,5 +10,5 @@ end
 count
 end
 
-def current_player(board2)
+def current_player(board)
 end
