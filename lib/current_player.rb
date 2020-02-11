@@ -12,7 +12,7 @@ end
 
 def current_player(board)
   index = board + 1
-  turn_count(board)
+  turn_count(index)
 
 
 end
