@@ -17,12 +17,5 @@ def current_player(board)
        "O"
      else
        "X"
-
-   end
-
-  # if turn_count(board) == 0
-  #   "X"
-  # elsif turn_count(board) = 1
-  #   "O"
-  # end
+    end
 end
