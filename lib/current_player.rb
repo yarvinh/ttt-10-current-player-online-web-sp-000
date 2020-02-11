@@ -14,5 +14,6 @@ def current_player(board)
 
   if turn_count(board) == 0
     "X"
+  elsif turn_count(board) = 1
   end
 end
