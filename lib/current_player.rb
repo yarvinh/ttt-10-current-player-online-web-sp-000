@@ -19,5 +19,5 @@ def current_player(board)
 count += 1
     end
   end
-  
+
 end
