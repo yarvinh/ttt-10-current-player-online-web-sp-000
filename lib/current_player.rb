@@ -11,6 +11,7 @@ count
 end
 
 def current_player(board)
+  puts board
   # turn_count(board)
   board.each do |player|
     if player == ""
