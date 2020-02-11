@@ -11,11 +11,7 @@ count
 end
 
 def current_player(board)
-  # turn_count(board)
-  board.each do |player|
-    if player == ""
-    puts  player
-    end
-  end
+  turn_count(board)
+
 
 end
