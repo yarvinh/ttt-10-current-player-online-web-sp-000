@@ -14,7 +14,7 @@ def current_player(board)
   # turn_count(board)
   board.each do |player|
     if player == ""
-      player
+    puts  player
 count += 1
     end
   end
